@@ -1,0 +1,35 @@
+input[type="text"]{
+    width: 94%;
+    height: 50%;
+    border: none;
+    outline: none;
+    background-color: black;
+    color: white;
+    text-align: right;
+    font-size: 35px;
+}
+input[type="button"]{
+    width:75px;
+    height: 73%;
+    border: none;
+    outline: none;
+    background-color:gray;
+    color: white;
+    font-size: x-large;
+    padding: 0;
+    border-radius: 100px;
+
+}
+table{
+    height: 600px;
+    width: 390px;
+    border: 2px solid white ;
+    border-radius: 25px;
+    margin-left: 500px;
+
+}
+body{
+    background-color: black;
+}
+
+
